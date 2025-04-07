@@ -31,7 +31,7 @@ Constraints:
 
 
 
-Solution: (O(n))
+Solution: (O(n)) space complexity- O(1)
 
 
 class Solution {
